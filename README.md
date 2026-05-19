@@ -4,8 +4,8 @@ Cozy Castle is a cozy castle tower diorama game for mobile devices developed wit
 ## 🎮 Controls
 Get ready to dive into the action with these intuitive controls:
 
-* Camera Movement: Slide your finger across the screen to move the camera around the tower.
-* Zoom In/Out: Use the pinch gesture to zoom in or out.
+* **Camera Movement:** Slide your finger across the screen to move the camera around the tower.
+* **Zoom In/Out:** Use the pinch gesture to zoom in or out.
 
 ## Video
 [![](https://img.youtube.com/vi/qZZLYu2Q2JQ/0.jpg)](https://youtube.com/shorts/qZZLYu2Q2JQ?feature=share)
